@@ -40,7 +40,7 @@ Image classification with front-end interface,Examples of categorical use: Chine
 1. datasets文件夹下存放的图片分为两部分，train里面是训练图片，test里面是测试图片，在评估的时候，我们使用的是test文件夹里面的图片。  
 2. 在评估之前需要首先准备好数据集，在train或者test文件里里面创建不同的文件夹，每个文件夹的名称为对应的类别名称，文件夹下面的图片为这个类的图片。
 
-##开始
+## 开始
 前端界面只用运行login.py这个文件，包括注册和用户登录，管理员登录用户为:user,密码为：123456
 
 
