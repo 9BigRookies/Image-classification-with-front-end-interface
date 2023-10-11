@@ -11,7 +11,7 @@ from PyQt5 import QtCore
 from Ui_clas import Ui_MainWindow
 from PIL import Image
 from QCandyUi import CandyWindow
-from ..classification import Classification
+from classification import Classification
 
 
 class MainWindow(QMainWindow, Ui_MainWindow):
